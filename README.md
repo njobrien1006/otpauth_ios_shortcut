@@ -10,7 +10,15 @@ That led me to find [otpauth](https://github.com/hectorm/otpauth). The javascrip
 
 ![Shortcut][IOS_Shortcut]
 
+Manual Fix
+![JS][JS]
+
+Dict CallOut
+![Dict][Dict]
+
 [IOS_Shortcut]: images/IOS_Shortcut.jpeg
+[JS]: images/JS_Manual_Fix.jpeg
+[Dict]: images/DictionaryKey.jpeg
 
 ## IOS Shortcut Notes
 1. Recieve Input is used for deciding if we send to clipboard or just show alert with value.

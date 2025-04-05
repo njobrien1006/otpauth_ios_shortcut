@@ -23,7 +23,7 @@ Dict CallOut
 ## IOS Shortcut Notes
 1. Recieve Input is used for deciding if we send to clipboard or just show alert with value.
 2. Dictionary is what TOTP params are.
-3. Text field is copied from the javascript of otpauth.
+3. Text field is from [here](https://github.com/njobrien1006/otpauth_ios_shortcut/blob/main/JavaScript). Which is modified version of [otpauth](https://otpauth.molinero.dev/). The [JS](https://cdn.jsdelivr.net/npm/otpauth/dist/otpauth.esm.min.js) portion.
 4. Replace is needed for new lines as it doesn't aggree for some reason.
 5. URL Form puts together and URL encodes the text.
 6. URL decode effectivly runs the baked in javascript.
